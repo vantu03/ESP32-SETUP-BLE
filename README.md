@@ -48,9 +48,9 @@ WIFI\:MyNetwork,MyPassword123
 ## 📥 Installation
 
 1. Clone this repository:
-   ```bash
+```bash
    git clone https://github.com/vantu03/ESP32-SETUP-BLE.git
-````
+```
 
 2. Open `main.ino` with Arduino IDE.
 3. Select the correct board (ESP32 Dev Module) and COM port.
