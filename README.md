@@ -52,13 +52,13 @@ WIFI\:MyNetwork,MyPassword123
    git clone https://github.com/vantu03/ESP32-SETUP-BLE.git
 ```
 
-2. Open `main.ino` with Arduino IDE.
+2. Open main.ino with Arduino IDE.
 3. Select the correct board (ESP32 Dev Module) and COM port.
 4. Upload the sketch.
 
 ## 🧪 Debugging
 
-Use `Serial Monitor` to view BLE payloads and connection status.
+Use *Serial Monitor* to view BLE payloads and connection status.
 
 ## 📜 License
 
